@@ -1,3 +1,10 @@
+<h2 align="center">
+  📢 <strong>COMMUNITY SERVER NOTICE</strong><br/>
+  This is a community-maintained MCP Server.<br/>
+  👉 For the <strong>official</strong> MongoDB MCP Server, visit  
+  <a href="https://github.com/mongodb-js/mongodb-mcp-server">mongodb-js/mongodb-mcp-server</a>
+</h2>
+
 # MongoDB MCP Server
 
 A Model Context Protocol server that provides read-only access to MongoDB databases. This server enables LLMs to inspect collection schemas and execute aggregation pipelines.
